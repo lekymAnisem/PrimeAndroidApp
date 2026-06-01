@@ -1,0 +1,52 @@
+# Android / Gradle
+.gradle/
+build/
+*/build/
+app/build/
+local.properties
+*.apk
+*.aab
+*.ap_
+*.aab_
+*.dex
+*.class
+*.iml
+*.log
+*.keystore
+*.jks
+
+# IDE - IntelliJ / Android Studio
+.idea/
+*.iws
+*.ipr
+out/
+.navigation/
+
+# IDE - VS Code
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+
+# PHP
+/vendor/
+composer.lock
+.env
+*.log
+
+# Node (if any)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Misc
+*.bak
+*.tmp
+*.orig
+*~
